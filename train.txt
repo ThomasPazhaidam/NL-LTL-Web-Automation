@@ -1,0 +1,15 @@
+the-a; user, subreddit, post; search-for, click-on, navigate-to
+the; homepage, subreddit; load, refresh, update
+a; post, comment, reply; upvote, downvote, reply-to
+the; search bar, filter; search-user, filter-results
+a; notification bell, inbox; show-alerts, dismiss-alerts
+the; trending bar, sidebar; stick, collapse
+a; image, video; play, stop
+the-a; "create post" button, post editor; use-for-posting, open-editor
+the; mod queue, report; review, approve
+a; user, account; mute, ban
+the; preferences modal, notifications panel; save, open, close
+a; sort dropdown, filter menu; change-order, filter
+the; follow button, join button; click, confirm-action
+the; Reddit homepage, trending page, subreddit page; load, refresh, navigate
+a; search query, filter; apply-changes, display-results
