@@ -1,0 +1,500 @@
+{Create}[Action] a {post}[Content Type] in {r/Technology}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Books}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Technology}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Travel tips for your next adventure."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Travel}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"The Future of AI"}[Title] with content {"Travel tips for your next adventure."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Technology}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"AI is transforming the world."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"The Future of AI"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Movies}[Subreddit] titled {"The Future of AI"}[Title] with content {"Explore the best books in Sci-Fi."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Fitness}[Subreddit] titled {"The Future of AI"}[Title] with content {"Travel tips for your next adventure."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Fitness}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Fitness}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Explore the best books in Sci-Fi."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Fitness}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"The Future of AI"}[Title] with content {"Travel tips for your next adventure."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Fitness}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Tips for maintaining healthy habits."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Books}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Travel}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Explore the best books in Sci-Fi."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Travel tips for your next adventure."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Fitness}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Tips for maintaining healthy habits."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Fitness}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"The Future of AI"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Tips for maintaining healthy habits."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Technology}[Subreddit] titled {"The Future of AI"}[Title] with content {"AI is transforming the world."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Travel tips for your next adventure."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Fitness}[Subreddit] titled {"The Future of AI"}[Title] with content {"Vote for the best movie franchises."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Technology}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Technology}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Technology}[Subreddit] titled {"The Future of AI"}[Title] with content {"Explore the best books in Sci-Fi."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Fitness}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Travel}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"The Future of AI"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Travel tips for your next adventure."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Travel}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Travel tips for your next adventure."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Movies}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"AI is transforming the world."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Travel tips for your next adventure."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Travel tips for your next adventure."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Books}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Technology}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Books}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Tips for maintaining healthy habits."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Fitness}[Subreddit] titled {"The Future of AI"}[Title] with content {"Vote for the best movie franchises."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Vote for the best movie franchises."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Movies}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Vote for the best movie franchises."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"The Future of AI"}[Title] with content {"Travel tips for your next adventure."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Fitness}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Explore the best books in Sci-Fi."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Travel tips for your next adventure."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Fitness}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Fitness}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Explore the best books in Sci-Fi."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Movies}[Subreddit] titled {"The Future of AI"}[Title] with content {"Explore the best books in Sci-Fi."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Books}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Technology}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Fitness}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Vote for the best movie franchises."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Movies}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"AI is transforming the world."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Technology}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Tips for maintaining healthy habits."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Fitness}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Explore the best books in Sci-Fi."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Fitness}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Explore the best books in Sci-Fi."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Technology}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Vote for the best movie franchises."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"The Future of AI"}[Title] with content {"Travel tips for your next adventure."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Travel tips for your next adventure."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Fitness}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Fitness}[Subreddit] titled {"The Future of AI"}[Title] with content {"Travel tips for your next adventure."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Technology}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"The Future of AI"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Technology}[Subreddit] titled {"The Future of AI"}[Title] with content {"Travel tips for your next adventure."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"The Future of AI"}[Title] with content {"Vote for the best movie franchises."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Movies}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Tips for maintaining healthy habits."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Fitness}[Subreddit] titled {"The Future of AI"}[Title] with content {"Explore the best books in Sci-Fi."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"The Future of AI"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Travel}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Fitness}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Travel}[Subreddit] titled {"The Future of AI"}[Title] with content {"Explore the best books in Sci-Fi."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Technology}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"AI is transforming the world."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Explore the best books in Sci-Fi."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Travel}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Travel}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"AI is transforming the world."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Books}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Travel}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Travel}[Subreddit] titled {"The Future of AI"}[Title] with content {"Vote for the best movie franchises."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Fitness}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"AI is transforming the world."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"The Future of AI"}[Title] with content {"Tips for maintaining healthy habits."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Travel}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"AI is transforming the world."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Technology}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Travel}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"AI is transforming the world."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Technology}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"AI is transforming the world."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Vote for the best movie franchises."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"The Future of AI"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Vote for the best movie franchises."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Travel}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Explore the best books in Sci-Fi."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Books}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Travel tips for your next adventure."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Books}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Travel tips for your next adventure."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"The Future of AI"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Travel tips for your next adventure."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Technology}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"AI is transforming the world."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Travel}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"The Future of AI"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Movies}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Vote for the best movie franchises."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Technology}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Tips for maintaining healthy habits."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Fitness}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Movies}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"AI is transforming the world."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"The Future of AI"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Travel tips for your next adventure."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Explore the best books in Sci-Fi."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Travel tips for your next adventure."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Fitness}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"AI is transforming the world."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Technology}[Subreddit] titled {"The Future of AI"}[Title] with content {"Vote for the best movie franchises."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Books}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Fitness}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Travel tips for your next adventure."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"The Future of AI"}[Title] with content {"Travel tips for your next adventure."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Technology}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Explore the best books in Sci-Fi."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Travel tips for your next adventure."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Travel tips for your next adventure."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Fitness}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Technology}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Vote for the best movie franchises."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Books}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Movies}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Tips for maintaining healthy habits."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Technology}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Technology}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Travel tips for your next adventure."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Travel}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"The Future of AI"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Travel tips for your next adventure."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Books}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"The Future of AI"}[Title] with content {"AI is transforming the world."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Technology}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"The Future of AI"}[Title] with content {"AI is transforming the world."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Tips for maintaining healthy habits."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"AI is transforming the world."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"The Future of AI"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"The Future of AI"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Travel}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Vote for the best movie franchises."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Travel}[Subreddit] titled {"The Future of AI"}[Title] with content {"Vote for the best movie franchises."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Books}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Fitness}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Fitness}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Vote for the best movie franchises."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Travel}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Travel}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"AI is transforming the world."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Fitness}[Subreddit] titled {"The Future of AI"}[Title] with content {"Vote for the best movie franchises."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"AI is transforming the world."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Fitness}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Books}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Technology}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Tips for maintaining healthy habits."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Travel}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Travel}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Tips for maintaining healthy habits."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Travel}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Travel}[Subreddit] titled {"The Future of AI"}[Title] with content {"Explore the best books in Sci-Fi."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Fitness}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Movies}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Tips for maintaining healthy habits."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Technology}[Subreddit] titled {"The Future of AI"}[Title] with content {"Travel tips for your next adventure."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Travel}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Technology}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Fitness}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Tips for maintaining healthy habits."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"The Future of AI"}[Title] with content {"AI is transforming the world."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"AI is transforming the world."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Fitness}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Movies}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Explore the best books in Sci-Fi."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Technology}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Travel tips for your next adventure."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"AI is transforming the world."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"The Future of AI"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Books}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Movies}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Travel tips for your next adventure."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Travel}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Travel}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Vote for the best movie franchises."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Fitness}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Movies}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"AI is transforming the world."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Technology}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"AI is transforming the world."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Movies}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Tips for maintaining healthy habits."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"The Future of AI"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"The Future of AI"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"AI is transforming the world."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Movies}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Explore the best books in Sci-Fi."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Explore the best books in Sci-Fi."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Technology}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Tips for maintaining healthy habits."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Fitness}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Fitness}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"AI is transforming the world."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Technology}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Travel tips for your next adventure."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Travel}[Subreddit] titled {"The Future of AI"}[Title] with content {"Tips for maintaining healthy habits."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Fitness}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"The Future of AI"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Fitness}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Vote for the best movie franchises."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Movies}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Travel tips for your next adventure."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Movies}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Tips for maintaining healthy habits."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Travel}[Subreddit] titled {"The Future of AI"}[Title] with content {"Tips for maintaining healthy habits."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Books}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"The Future of AI"}[Title] with content {"Explore the best books in Sci-Fi."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Books}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Technology}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"The Future of AI"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Fitness}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"The Future of AI"}[Title] with content {"Travel tips for your next adventure."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Technology}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Tips for maintaining healthy habits."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Fitness}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Travel tips for your next adventure."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Travel}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Books}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Travel}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Fitness}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Vote for the best movie franchises."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Fitness}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Vote for the best movie franchises."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Fitness}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Travel}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Tips for maintaining healthy habits."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Fitness}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Travel}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Travel}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Fitness}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Travel tips for your next adventure."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Technology}[Subreddit] titled {"The Future of AI"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Movies}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"AI is transforming the world."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Travel}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Explore the best books in Sci-Fi."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Books}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"The Future of AI"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Fitness}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Movies}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Tips for maintaining healthy habits."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Movies}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Travel tips for your next adventure."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Fitness}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Vote for the best movie franchises."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Technology}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Technology}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Technology}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"AI is transforming the world."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"The Future of AI"}[Title] with content {"Travel tips for your next adventure."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Fitness}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Travel tips for your next adventure."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Fitness}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Vote for the best movie franchises."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Travel tips for your next adventure."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"The Future of AI"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Technology}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"AI is transforming the world."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Books}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"The Future of AI"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Fitness}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Vote for the best movie franchises."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Fitness}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Technology}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"The Future of AI"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Books}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Technology}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Explore the best books in Sci-Fi."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Travel}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Travel}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Explore the best books in Sci-Fi."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Travel}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Travel tips for your next adventure."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Travel}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Books}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Travel}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Movies}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Explore the best books in Sci-Fi."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Fitness}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Vote for the best movie franchises."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Books}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Books}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Travel}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Vote for the best movie franchises."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Travel}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Travel}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Tips for maintaining healthy habits."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"The Future of AI"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Fitness}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Travel tips for your next adventure."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Books}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Travel}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Fitness}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Travel tips for your next adventure."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Travel tips for your next adventure."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Movies}[Subreddit] titled {"The Future of AI"}[Title] with content {"Explore the best books in Sci-Fi."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Travel}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Vote for the best movie franchises."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Fitness}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Vote for the best movie franchises."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Vote for the best movie franchises."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Travel}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Explore the best books in Sci-Fi."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Travel tips for your next adventure."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Travel}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Explore the best books in Sci-Fi."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"The Future of AI"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Technology}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Tips for maintaining healthy habits."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Books}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Technology}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Tips for maintaining healthy habits."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Movies}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Travel tips for your next adventure."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Technology}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Explore the best books in Sci-Fi."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Travel tips for your next adventure."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Travel}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Vote for the best movie franchises."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"The Future of AI"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Travel}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"AI is transforming the world."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Books}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Technology}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"The Future of AI"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"The Future of AI"}[Title] with content {"Travel tips for your next adventure."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Fitness}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Travel tips for your next adventure."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Books}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Technology}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Fitness}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Travel tips for your next adventure."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Travel}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Tips for maintaining healthy habits."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Technology}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Vote for the best movie franchises."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Travel}[Subreddit] titled {"The Future of AI"}[Title] with content {"Travel tips for your next adventure."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"The Future of AI"}[Title] with content {"Travel tips for your next adventure."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"The Future of AI"}[Title] with content {"Travel tips for your next adventure."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {poll}[Content Type] in {r/Travel}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Tips for maintaining healthy habits."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Technology}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Travel}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Technology}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Vote for the best movie franchises."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Fitness}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Travel}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Tips for maintaining healthy habits."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Books}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Movies}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Explore the best books in Sci-Fi."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Books}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Movies}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Travel tips for your next adventure."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Movies}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Tips for maintaining healthy habits."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Travel tips for your next adventure."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Books}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Tips for maintaining healthy habits."}[Content] and options {"Python"}[Option], {"JavaScript"}[Option], {"C++"}[Option], {"Java"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Books}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Travel tips for your next adventure."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Books}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Fitness}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Movies}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"AI is transforming the world."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Books}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {poll}[Content Type] in {r/Travel}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Travel tips for your next adventure."}[Content] and options {"Beach"}[Option], {"Mountains"}[Option], {"City"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Books}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Travel}[Subreddit] titled {"Top 10 Travel Tips"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Vote for the best movie franchises."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Technology}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Travel tips for your next adventure."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Fitness}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Travel tips for your next adventure."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Technology}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {link}[Content Type] to {r/Books}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Tips for maintaining healthy habits."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Travel}[Subreddit] titled {"The Future of AI"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {poll}[Content Type] in {r/Movies}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with content {"Travel tips for your next adventure."}[Content] and options {"Yes"}[Option], {"No"}[Option].
+{Create}[Action] a {post}[Content Type] in {r/Travel}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"AI is transforming the world."}[Content].
+{Create}[Action] a {link}[Content Type] to {r/Fitness}[Subreddit] titled {"Favorite Movie Franchises"}[Title] with URL {"www.example.com"}[Link].
+{Create}[Action] a {post}[Content Type] in {r/Technology}[Subreddit] titled {"Healthy Habits for 2024"}[Title] with content {"Explore the best books in Sci-Fi."}[Content].
+{Create}[Action] a {post}[Content Type] in {r/Movies}[Subreddit] titled {"Best Sci-Fi Novels"}[Title] with content {"Vote for the best movie franchises."}[Content].

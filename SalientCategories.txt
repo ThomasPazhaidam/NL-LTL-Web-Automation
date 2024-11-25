@@ -1,0 +1,32 @@
+Action: The primary operation or command the user wants to perform.
+Examples: Show, Find/Search, Open, Upvote, Downvote, Comment, Create, Subscribe, Unsubscribe, Save, Send, Log in, Log out, Switch.
+
+Content Type: The specific kind of content involved in the action.
+Examples: Post, Posts, Top posts, Latest post, Trending subreddits, Subreddits, Comment, Comments, Replies, Message, Inbox, Saved posts, Reddit karma, Setting.
+
+Subreddit: The particular subreddit that the action pertains to.
+Examples: r/technology, r/AskReddit, r/science, r/fitness, r/politics, r/movies.
+
+Timeframe: Any temporal aspect or time-related specification.
+Examples: Recent, Latest, Today, For later.
+
+Topic/Keyword: Specific subject matter, keywords, or phrases relevant to the action.
+Examples: "climate change", cooking.
+
+Platform: The platform or service where the action is to be performed.
+Example: Reddit.
+
+Context: Additional contextual information specifying which content is referred to.
+Examples: This post, Current thread.
+
+Ownership: Indicates possession or relation to the user's own content or account.
+Examples: My inbox, My saved posts, My Reddit karma, My comment, My account.
+
+Title: The title of a post or content being created or referenced.
+Example: "Latest Mars Rover Findings".
+
+Content: The actual text or message content provided by the user.
+Example: "Interesting perspective!" (as a comment or message).
+
+Recipient: The target user or entity to whom the action is directed.
+sExample: u/username.
