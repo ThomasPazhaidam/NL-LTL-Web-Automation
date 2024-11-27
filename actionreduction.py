@@ -73,18 +73,18 @@ class RedditPoster:
 
     def quit(self):
         self.driver.quit()
-
-class Actions:
-    def create_post(subreddit):
-        link = f'reddit.com/web/f{subreddit}/submit'
-        rd.open_site(link)
     
-    def click_content_type(content_type):
-        button_text = button_text.capitalize()
+    def create_post(self, subreddit):
+        link = f'https://www.reddit.com/web/{subreddit}/submit'
+        self.open_site(link)
+    
+    def click_content_type(self, content_type):
+        button_text = content_type.capitalize()
         xPath = f"//button[text()='{button_text}']"
-        rd.get_element(0, xPath)
+        buttonObj = self.get_element(0, xPath)
+        buttonObj.click()
     
-    def type_text(content_type, title, body, option=None):
+    def type_text(self, content_type, title, body, option=None):
         titlexPath = '//*[@id="AppRouter-main-content"]/div/div/div[2]/div[3]/div[1]/div[2]/div[3]/div[2]/div[1]/div/textarea'
         if content_type == 'post':
             bodyxPath = '//*[@id="AppRouter-main-content"]/div/div/div[2]/div[3]/div[1]/div[2]/div[3]/div[2]/div[2]/div/div/div[3]/div/div[1]/div/div/div'
@@ -95,58 +95,57 @@ class Actions:
             basePollxPath='//*[@id="AppRouter-main-content"]/div/div/div[2]/div[3]/div[1]/div[2]/div[3]/div[2]/div[2]/div[2]/div/div/div[1]/div[1]/div[{}]/div/input'
             pollxPath = [basePollxPath.format(i) for i in range(1,len(option)+1)]
         #set title
-        titleObj = rd.get_element(0, titlexPath)
+        titleObj = self.get_element(0, titlexPath)
         titleObj.click()
         Timeouts.med
-        rd.send_keys(titleObj, title)
+        self.send_keys(titleObj, title)
         Timeouts.med
         #set body
-        bodyObj = rd.get_element(0, bodyxPath)
+        bodyObj = self.get_element(0, bodyxPath)
         bodyObj.click()
         Timeouts.med
-        rd.send_keys(bodyObj, body)
+        self.send_keys(bodyObj, body)
         Timeouts.med
         #set options
         if content_type == 'poll':
             if len(option) > 2:
                 for i in range(0, len(option)-2):
-                    addOptionButtonObj = rd.get_element(0, '//*[@id="AppRouter-main-content"]/div/div/div[2]/div[3]/div[1]/div[2]/div[3]/div[2]/div[2]/div[2]/div/div/div[1]/div[2]/button')
+                    addOptionButtonObj = self.get_element(0, '//*[@id="AppRouter-main-content"]/div/div/div[2]/div[3]/div[1]/div[2]/div[3]/div[2]/div[2]/div[2]/div/div/div[1]/div[2]/button')
                     addOptionButtonObj.click()
                     Timeouts.med
             
             for i in range(0, len(option)):
-                pollTextObj = rd.get_element(0, pollxPath[i])
+                pollTextObj = self.get_element(0, pollxPath[i])
                 pollTextObj.click()
                 Timeouts.med
-                rd.send_keys(pollTextObj, option[i])
+                self.send_keys(pollTextObj, option[i])
                 Timeouts.med       
         
-    def submit_post():
-        PostObj = rd.get_element(0, '//*[@id="AppRouter-main-content"]/div/div/div[2]/div[3]/div[1]/div[2]/div[3]/div[3]/div[2]/div/div/div[1]/button[1]')
+    def submit_post(self):
+        PostObj = self.get_element(0, '//*[@id="AppRouter-main-content"]/div/div/div[2]/div[3]/div[1]/div[2]/div[3]/div[3]/div[2]/div/div/div[1]/button[1]')
         PostObj.click()
         Timeouts.med
-
+'''
 rd = RedditPoster()
 input()
 rd.open_site('https://www.reddit.com/login/')
 input()
-rd.login('thomas.pazhaidam19@gmail.com', '256sunny')
+rd.login('username', 'password')
 input()
-
-texts = rd.driver.find_element(By.XPATH, "//button[text()='Image & Video']")
-texts.click()
-
-
-texts = rd.driver.find_element(By.XPATH, "//*[@id=\"AppRouter-main-content\"]/div/div/div[2]/div[3]/div[1]/div[2]/div[3]/div[2]/div[2]/div/div/div[3]/div/div[1]/div/div/div")
-texts.click()
-Timeouts.med
-texts.send_keys('h')
+rd.create_post('r/testautomationcom')
 input()
-
-#rd.click_element_xPath('//*[contains(text(), "Create")]')
-#input()
-#input()
-#rd.click_element_xPath('Link')
-#input()
-#rd.click_element_xPath('Poll')
-#rd.quit()
+rd.click_content_type('link')
+input()
+rd.type_text('link', 'test2', 'www.google.com')
+input()
+rd.submit_post()
+input()
+rd.create_post('r/testautomationcom')
+input()
+rd.click_content_type('poll')
+input()
+rd.type_text('poll', 'test3', 'test poll', ['candies', 'apples', 'glizzies'])
+input()
+rd.submit_post()
+input()
+'''
