@@ -1,32 +1,23 @@
-Action: The primary operation or command the user wants to perform.
+Action: The primary operation or command the user wants to perform. Focus only on verbs or action-related words. 
 Examples: Show, Find/Search, Open, Upvote, Downvote, Comment, Create, Subscribe, Unsubscribe, Save, Send, Log in, Log out, Switch.
 
-Content Type: The specific kind of content involved in the action.
-Examples: Post, Posts, Top posts, Latest post, Trending subreddits, Subreddits, Comment, Comments, Replies, Message, Inbox, Saved posts, Reddit karma, Setting.
+Content Type: The structural format or nature of the content being referenced or acted upon. Use structural terms that classify the item, not the descriptive text. 
+Examples: Post, AMA, Link, Poll.
 
 Subreddit: The particular subreddit that the action pertains to.
 Examples: r/technology, r/AskReddit, r/science, r/fitness, r/politics, r/movies.
 
-Timeframe: Any temporal aspect or time-related specification.
-Examples: Recent, Latest, Today, For later.
-
-Topic/Keyword: Specific subject matter, keywords, or phrases relevant to the action.
-Examples: "climate change", cooking.
-
-Platform: The platform or service where the action is to be performed.
-Example: Reddit.
-
-Context: Additional contextual information specifying which content is referred to.
-Examples: This post, Current thread.
-
-Ownership: Indicates possession or relation to the user's own content or account.
-Examples: My inbox, My saved posts, My Reddit karma, My comment, My account.
-
-Title: The title of a post or content being created or referenced.
+Title: The title of a post or content being created or referenced. Ensure the title captures the main subject or headline of the content.
 Example: "Latest Mars Rover Findings".
 
-Content: The actual text or message content provided by the user.
+Content: The actual text or message content provided by the user. The actual text or message content provided by the user.
 Example: "Interesting perspective!" (as a comment or message).
 
 Recipient: The target user or entity to whom the action is directed.
-sExample: u/username.
+Example: u/username.
+
+Options:  A list of selectable or multiple-choice elements provided in the context of creating content, especially polls.
+Example: Apple, Orange, Banana
+
+Filter: The criteria or parameters used to narrow down or refine the results of a search, action, or interaction.
+Example: Relevance, Hot, Past year, Today, Past hour

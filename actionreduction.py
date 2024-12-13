@@ -90,16 +90,16 @@ class RedditPoster:
         buttonObj.click()
         Timeouts.lng
     
-    def fill_post_details(self, content_type, title, content, option=None):
+    def fill_post_details(self, content_type, title, content, options_list=None):
         titlexPath = '//*[@id="AppRouter-main-content"]/div/div/div[2]/div[3]/div[1]/div[2]/div[3]/div[2]/div[1]/div/textarea'
-        if content_type == 'post':
+        if content_type.lower()  == 'post':
             bodyxPath = '//*[@id="AppRouter-main-content"]/div/div/div[2]/div[3]/div[1]/div[2]/div[3]/div[2]/div[2]/div/div/div[3]/div/div[1]/div/div/div'
-        if content_type == 'link':
+        if content_type.lower()  == 'link':
             bodyxPath = '//*[@id="AppRouter-main-content"]/div/div/div[2]/div[3]/div[1]/div[2]/div[3]/div[2]/div[2]/textarea'
-        if content_type == 'poll':
+        if content_type.lower()  == 'poll':
             bodyxPath = '//*[@id="AppRouter-main-content"]/div/div/div[2]/div[3]/div[1]/div[2]/div[3]/div[2]/div[2]/div[1]/div/div[3]/div/div[1]/div/div/div'
             basePollxPath='//*[@id="AppRouter-main-content"]/div/div/div[2]/div[3]/div[1]/div[2]/div[3]/div[2]/div[2]/div[2]/div/div/div[1]/div[1]/div[{}]/div/input'
-            pollxPath = [basePollxPath.format(i) for i in range(1,len(option)+1)]
+            pollxPath = [basePollxPath.format(i) for i in range(1,len(options_list)+1)]
         #set title
         titleObj = self.__get_element(0, titlexPath)
         titleObj.click()
@@ -113,18 +113,18 @@ class RedditPoster:
         self.__send_keys(bodyObj, content)
         Timeouts.med
         #set options
-        if content_type == 'poll':
-            if len(option) > 2:
-                for i in range(0, len(option)-2):
+        if content_type.lower() == 'poll':
+            if len(options_list) > 2:
+                for i in range(0, len(options_list)-2):
                     addOptionButtonObj = self.__get_element(0, '//*[@id="AppRouter-main-content"]/div/div/div[2]/div[3]/div[1]/div[2]/div[3]/div[2]/div[2]/div[2]/div/div/div[1]/div[2]/button')
                     addOptionButtonObj.click()
                     Timeouts.med
             
-            for i in range(0, len(option)):
+            for i in range(0, len(options_list)):
                 pollTextObj = self.__get_element(0, pollxPath[i])
                 pollTextObj.click()
                 Timeouts.med
-                self.__send_keys(pollTextObj, option[i])
+                self.__send_keys(pollTextObj, options_list[i])
                 Timeouts.med
         Timeouts.lng     
         
@@ -132,6 +132,25 @@ class RedditPoster:
         PostObj = self.__get_element(0, '//*[@id="AppRouter-main-content"]/div/div/div[2]/div[3]/div[1]/div[2]/div[3]/div[3]/div[2]/div/div/div[1]/button[1]')
         PostObj.click()
         Timeouts.lng
+    
+    def open_search_bar(self):
+        PostObj = self.__get_element(0, '/html/body/shreddit-app/reddit-header-large/reddit-header-action-items/header/nav/div[2]/div/div/search-dynamic-id-cache-controller/reddit-search-large//div/div[1]/form/faceplate-search-input//label/div/span[2]')
+        PostObj.click()
+        Timeouts.lng
+    
+    def enter_search_query(self, content):
+        searchBarObj = self.__get_element(0, '/html/body/shreddit-app/reddit-header-large/reddit-header-action-items/header/nav/div[2]/div/div/search-dynamic-id-cache-controller/reddit-search-large//div/div[1]/form/faceplate-search-input//label/div/span[2]')
+        self.__send_keys(searchBarObj, content)
+        Timeouts.lng
+
+    def submit_search_query(self):
+        searchBarObj = self.__get_element(0, '/html/body/shreddit-app/reddit-header-large/reddit-header-action-items/header/nav/div[2]/div/div/search-dynamic-id-cache-controller/reddit-search-large//div/div[1]/form/faceplate-search-input//label/div/span[2]')
+        searchBarObj.send_keys(Keys.ENTER)
+        Timeouts.lng
+
+    def filter_search_results(self, filter_list):
+        filter = filter_list
+
         
 '''
 rd = RedditPoster()

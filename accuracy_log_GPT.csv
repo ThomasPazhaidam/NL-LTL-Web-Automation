@@ -1,0 +1,26 @@
+Prompt Name,Function Accuracy,Argument Accuracy,Overall Accuracy,Execution Time,Recomputed
+"Create a post in r/Technology titled ""Top 10 Travel Tips"" with content ""Tips for maintaining healthy habits"".",1.0,1.0,1.0,3.465059995651245,0
+Draft a post for r/Technology titled Top 10 Travel Tips focusing on tips for healthy habits.,0.25,0.6,0.425,4.999626398086548,0
+Submit a post on r/Technology with the title Top 10 Travel Tips and include advice on healthy habits.,1.0,0.8571428571428571,0.9285714285714286,2.570258378982544,0
+Write a post in r/Technology under the title Top 10 Travel Tips providing content on maintaining healthy habits.,1.0,0.375,0.6875,2.307481527328491,0
+Prepare a post for r/Technology titled Top 10 Travel Tips featuring tips for maintaining healthy habits.,0.75,1.0,0.875,1.9764232635498047,0
+"Create a post in r/Travel titled ""Best Sci-Fi Novels"" with content ""voting for the best movie franchises"".",1.0,0.7142857142857143,0.8571428571428572,3.134882688522339,0
+Draft a post for r/Travel titled Best Sci-Fi Novels encouraging voting for the best movie franchises.,0.25,0.6,0.425,1.8756985664367676,0
+Submit a post on r/Travel with the title Best Sci-Fi Novels asking voting for the best movie franchises.,1.0,0.8571428571428571,0.9285714285714286,2.450047016143799,0
+Write a post in r/Travel titled Best Sci-Fi Novels and invite opinions on voting for the best movie franchises.,1.0,0.8571428571428571,0.9285714285714286,2.8050832748413086,0
+Prepare a post for r/Travel titled Best Sci-Fi Novels engaging users to discuss voting for the best movie franchises.,1.0,0.8571428571428571,0.9285714285714286,4.464508295059204,0
+"Create a link to r/Technology titled ""The Future of AI"" with URL www.example.com.",0.75,1.0,0.875,2.635467052459717,1
+Submit a link on r/Technology titled The Future of AI directing readers to www.example.com.,1.0,1.0,1.0,2.659872055053711,0
+Add a link to r/Technology under the title The Future of AI pointing to www.example.com.,1.0,0.2857142857142857,0.6428571428571428,3.480881929397583,1
+Share a link in r/Technology titled The Future of AI with the URL www.example.com.,1.0,0.2857142857142857,0.6428571428571428,2.8090803623199463,0
+Post a link on r/Technology titled The Future of AI leading to www.example.com.,1.0,1.0,1.0,3.2626638412475586,1
+"Create a post in r/Movies titled ""Favorite Movie Franchises"" with content ""exploring the best books in Sci-Fi"".",1.0,0.7142857142857143,0.8571428571428572,2.136132001876831,0
+Draft a post for r/Movies titled Favorite Movie Franchises highlighting exploring the best books in Sci-Fi.,0.75,0.6666666666666666,0.7083333333333333,4.685035943984985,0
+Submit a post on r/Movies under the title Favorite Movie Franchises exploring the best books in Sci-Fi.,1.0,1.0,1.0,2.0152885913848877,0
+Write a post in r/Movies titled Favorite Movie Franchises and include recommendations for exploring the best books in Sci-Fi.,1.0,0.8571428571428571,0.9285714285714286,6.1903464794158936,1
+Prepare a post for r/Movies titled Favorite Movie Franchises featuring exploring the best books in Sci-Fi.,0.25,0.6,0.425,4.978722333908081,0
+"Create a poll in r/Technology titled ""Best Sci-Fi Novels"" with content about ""Is Dune Prophecy an all time favourite?"" and options ""Yes"", ""No"".",1.0,0.75,0.875,3.1649999618530273,0
+"Draft a poll for r/Technology titled Best Sci-Fi Novels with content on is Dune Prophecy an all time favourite?, giving options Yes and No.",0.75,0.0,0.375,2.040304183959961,0
+"Submit a poll on r/Technology titled Best Sci-Fi Novels asking for feedback Is Dune Prophecy an all time favourite?, with choices Yes or No.",1.0,0.75,0.875,3.00166654586792,0
+Post a poll in r/Technology titled Best Sci-Fi Novels featuring Is Dune Prophecy an all time favourite? and options Yes and No.,1.0,1.0,1.0,2.678419589996338,0
+Prepare a poll for r/Technology titled Best Sci-Fi Novels focusing on Is Dune Prophecy an all time favourite? with Yes/No options.,0.75,0.8571428571428571,0.8035714285714286,3.0689642429351807,0

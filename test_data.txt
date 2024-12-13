@@ -1,0 +1,49 @@
+Create a post in r/Technology titled "Top 10 Travel Tips" with content "Tips for maintaining healthy habits".
+Draft a post for r/Technology titled Top 10 Travel Tips focusing on tips for healthy habits.
+Submit a post on r/Technology with the title Top 10 Travel Tips and include advice on healthy habits.
+Write a post in r/Technology under the title Top 10 Travel Tips providing content on maintaining healthy habits.
+Prepare a post for r/Technology titled Top 10 Travel Tips featuring tips for maintaining healthy habits.
+rd.navigate_to_create_post_page('r/Technology')
+rd.select_post_type('Post')
+rd.fill_post_details('Post', 'Top 10 Travel Tips', 'Tips for maintaining healthy habits', options_list=None)
+rd.click_submit_button()
+
+Create a post in r/Travel titled "Best Sci-Fi Novels" with content "voting for the best movie franchises".
+Draft a post for r/Travel titled Best Sci-Fi Novels encouraging voting for the best movie franchises.
+Submit a post on r/Travel with the title Best Sci-Fi Novels asking voting for the best movie franchises.
+Write a post in r/Travel titled Best Sci-Fi Novels and invite opinions on voting for the best movie franchises.
+Prepare a post for r/Travel titled Best Sci-Fi Novels engaging users to discuss voting for the best movie franchises.
+rd.navigate_to_create_post_page('r/Travel')
+rd.select_post_type('Post')
+rd.fill_post_details('Post', 'Best Sci-Fi Novels', 'voting for the best movie franchises', options_list=None)
+rd.click_submit_button()
+
+Create a link to r/Technology titled "The Future of AI" with URL www.example.com.
+Submit a link on r/Technology titled The Future of AI directing readers to www.example.com.
+Add a link to r/Technology under the title The Future of AI pointing to www.example.com.
+Share a link in r/Technology titled The Future of AI with the URL www.example.com.
+Post a link on r/Technology titled The Future of AI leading to www.example.com.
+rd.navigate_to_create_post_page('r/Technology')
+rd.select_post_type('Link')
+rd.fill_post_details('Link', 'The Future of AI', 'www.example.com', options_list=None)
+rd.click_submit_button()
+
+Create a post in r/Movies titled "Favorite Movie Franchises" with content "exploring the best books in Sci-Fi".
+Draft a post for r/Movies titled Favorite Movie Franchises highlighting exploring the best books in Sci-Fi.
+Submit a post on r/Movies under the title Favorite Movie Franchises exploring the best books in Sci-Fi.
+Write a post in r/Movies titled Favorite Movie Franchises and include recommendations for exploring the best books in Sci-Fi.
+Prepare a post for r/Movies titled Favorite Movie Franchises featuring exploring the best books in Sci-Fi.
+rd.navigate_to_create_post_page('r/Movies')
+rd.select_post_type('Post')
+rd.fill_post_details('Post', 'Favorite Movie Franchises', 'exploring the best books in Sci-Fi', options_list=None)
+rd.click_submit_button()
+
+Create a poll in r/Technology titled "Best Sci-Fi Novels" with content about "Is Dune Prophecy an all time favourite?" and options "Yes", "No".
+Draft a poll for r/Technology titled Best Sci-Fi Novels with content on is Dune Prophecy an all time favourite?, giving options Yes and No.
+Submit a poll on r/Technology titled Best Sci-Fi Novels asking for feedback Is Dune Prophecy an all time favourite?, with choices Yes or No.
+Post a poll in r/Technology titled Best Sci-Fi Novels featuring Is Dune Prophecy an all time favourite? and options Yes and No.
+Prepare a poll for r/Technology titled Best Sci-Fi Novels focusing on Is Dune Prophecy an all time favourite? with Yes/No options.
+rd.navigate_to_create_post_page('r/Technology')
+rd.select_post_type('Poll')
+rd.fill_post_details('Poll', 'Best Sci-Fi Novels', 'Is Dune Prophecy an all time favourite?', options_list=['Yes', 'No'])
+rd.click_submit_button()
